@@ -205,7 +205,7 @@ The project uses Python and the following libraries:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/salmamxz/uk-housing-price-analysis>
 cd uk-housing-price-analysis
 ```
 
